@@ -1,0 +1,121 @@
+titulacio,curs,horari,assignatura,codi_assignatura,semestre,day,day_code,session,hour,tipus
+ADE,1,mati,Matemàtiques I,102345,1,Dilluns,1,1,9-11,0
+ADE,1,mati,Matemàtiques I,102345,1,Dimecres,3,2,11.15-13.15,1
+ADE,1,mati,Dret,102340,1,Dimarts,2,1,9-11,0
+ADE,1,mati,Dret,102340,1,Dijous,4,2,11.15-14.15,1
+ADE,1,mati,Hª Econòmica Mundial,102330,1,Dimecres,3,1,9-11,0
+ADE,1,mati,Hª Econòmica Mundial,102330,1,Divendres,5,2,11.15-13.15,1
+ADE,1,mati,Economia de l'Empresa I,102343,1,Dijous,4,1,9-11,0
+ADE,1,mati,Economia de l'Empresa I,102343,1,Dimarts,2,2,11.15-13.15,1
+ADE,1,mati,Introducció a l'Economia,102341,1,Divendres,5,1,9-11,0
+ADE,1,mati,Introducció a l'Economia,102341,1,Dilluns,1,2,11.15-13.15,1
+ADE,1,tarda,Matemàtiques I,102345,1,Dilluns,1,1,16-18,0
+ADE,1,tarda,Matemàtiques I,102345,1,Dimecres,3,2,18.15-20.15,1
+ADE,1,tarda,Dret,102340,1,Dimarts,2,1,16-18,0
+ADE,1,tarda,Dret,102340,1,Dijous,4,2,18.15-20.15,1
+ADE,1,tarda,Hª Econòmica Mundial,102330,1,Dimecres,3,1,16-18,0
+ADE,1,tarda,Hª Econòmica Mundial,102330,1,Divendres,5,2,18.15-20.15,1
+ADE,1,tarda,Economia de l'Empresa I,102343,1,Dijous,4,1,16-18,0
+ADE,1,tarda,Economia de l'Empresa I,102343,1,Dimarts,2,2,18.15-20.15,1
+ADE,1,tarda,Introducció a l'Economia,102341,1,Divendres,5,1,16-18,0
+ADE,1,tarda,Introducció a l'Economia,102341,1,Dilluns,1,2,18.15-20.15,1
+ADE,1,mati,Matemàtiques II,102344,2,Dilluns,1,1,9-11,0
+ADE,1,mati,Matemàtiques II,102344,2,Dimecres,3,2,11.15-13.15,1
+ADE,1,mati,Introducció a la Comptabilitat,102366,2,Dimarts,2,1,9-11,0
+ADE,1,mati,Introducció a la Comptabilitat,102366,2,Dijous,4,2,11.15-13.15,1
+ADE,1,mati,Economia Internacional,102387,2,Dimecres,3,1,9-11,0
+ADE,1,mati,Economia Internacional,102387,2,Divendres,5,2,11.15-13.15,1
+ADE,1,mati,Estadística I,102386,2,Dijous,4,1,9-11,1
+ADE,1,mati,Estadística I,102386,2,Dimarts,2,2,11.15-13.15,0
+ADE,1,mati,Fonaments de Màrqueting,104675,2,Divendres,5,1,9-11,0
+ADE,1,mati,Fonaments de Màrqueting,104675,2,Dilluns,2,2,11.15-13.15,0
+ADE,1,tarda,Matemàtiques II,102344,2,Dilluns,1,1,16-18,0
+ADE,1,tarda,Matemàtiques II,102344,2,Dimecres,3,2,18.15-20.15,1
+ADE,1,tarda,Introducció a la Comptabilitat,102366,2,Dimarts,2,1,16-18,0
+ADE,1,tarda,Introducció a la Comptabilitat,102366,2,Dijous,4,2,18.15-20.15,1
+ADE,1,tarda,Economia Internacional,102387,2,Dimecres,3,1,16-18,0
+ADE,1,tarda,Economia Internacional,102387,2,Divendres,5,2,18.15-20.15,1
+ADE,1,tarda,Estadística I,102386,2,Dijous,4,1,16-18,1
+ADE,1,tarda,Estadística I,102386,2,Dimarts,2,2,18.15-20.15,0
+ADE,1,tarda,Fonaments de Màrqueting,104675,2,Divendres,5,1,16-18,0
+ADE,1,tarda,Fonaments de Màrqueting,104675,2,Dilluns,2,2,18.15-20.15,0
+ADE,2,mati,Microeconomia I,102337,1,Dilluns,1,1,9-11,0
+ADE,2,mati,Microeconomia I,102337,1,Dimecres,3,2,11.15-13.15,1
+ADE,2,mati,Comptabilitat de Costos,102374,1,Dimarts,2,1,9-11,0
+ADE,2,mati,Comptabilitat de Costos,102374,1,Dijous,4,2,11.15-13.15,1
+ADE,2,mati,Economia Espanyola,102320,1,Dimecres,3,1,9-11,0
+ADE,2,mati,Economia Espanyola,102320,1,Divendres,5,2,11.15-13.15,1
+ADE,2,mati,Recursos Humans,102342,1,Dijous,4,1,9-11,0
+ADE,2,mati,Recursos Humans,102342,1,Dimarts,2,2,11.15-13.15,1
+ADE,2,mati,Estadística II,102385,1,Divendres,5,1,9-11,0
+ADE,2,mati,Estadística II,102385,1,Dilluns,1,2,11.15-13.15,0
+ADE,2,tarda,Microeconomia I,102337,1,Dilluns,1,1,16-18,0
+ADE,2,tarda,Microeconomia I,102337,1,Dimecres,3,2,18.15-20.15,1
+ADE,2,tarda,Comptabilitat de Costos,102374,1,Dimarts,2,1,16-18,0
+ADE,2,tarda,Comptabilitat de Costos,102374,1,Dijous,4,2,18.15-20.15,1
+ADE,2,tarda,Economia Espanyola,102320,1,Dimecres,3,1,16-18,0
+ADE,2,tarda,Economia Espanyola,102320,1,Divendres,5,2,18.15-20.15,1
+ADE,2,tarda,Recursos Humans,102342,1,Dijous,4,1,16-18,0
+ADE,2,tarda,Recursos Humans,102342,1,Dimarts,2,2,18.15-20.15,1
+ADE,2,tarda,Estadística II,102385,1,Divendres,5,1,16-18,0
+ADE,2,tarda,Estadística II,102385,1,Dilluns,1,2,18.15-20.15,0
+ADE,2,mati,Macroeconomia I,102384,2,Dilluns,1,1,9-11,0
+ADE,2,mati,Macroeconomia I,102384,2,Dimecres,3,2,11.15-13.15,1
+ADE,2,mati,Teories de l'Empresa,104676,2,Dimarts,2,1,9-11,0
+ADE,2,mati,Teories de l'Empresa,104676,2,Dijous,4,2,11.15-13.15,1
+ADE,2,mati,Econometria I,102308,2,Dimecres,3,1,9-11,0
+ADE,2,mati,Econometria I,102308,2,Divendres,5,2,11.15-13.15,0
+ADE,2,mati,Microeconomia II,102336,2,Dijous,4,1,9-11,0
+ADE,2,mati,Microeconomia II,102336,2,Dimarts,2,2,11.15-13.15,1
+ADE,2,mati,Comptabilitat Financera,102371,2,Divendres,3,1,9-11,0
+ADE,2,mati,Comptabilitat Financera,102371,2,Dilluns,1,2,11.15-13.15,1
+ADE,2,tarda,Macroeconomia I,102384,2,Dilluns,1,1,16-18,0
+ADE,2,tarda,Macroeconomia I,102384,2,Dimecres,3,2,18.15-20.15,1
+ADE,2,tarda,Teories de l'Empresa,104676,2,Dimarts,2,1,16-18,0
+ADE,2,tarda,Teories de l'Empresa,104676,2,Dijous,4,2,18.15-20.15,1
+ADE,2,tarda,Econometria I,102308,2,Dimecres,3,1,16-18,0
+ADE,2,tarda,Econometria I,102308,2,Divendres,5,2,18.15-20.15,0
+ADE,2,tarda,Microeconomia II,102336,2,Dijous,4,1,16-18,0
+ADE,2,tarda,Microeconomia II,102336,2,Dimarts,2,2,18.15-20.15,1
+ADE,2,tarda,Comptabilitat Financera,102371,2,Divendres,3,1,16-18,0
+ADE,2,tarda,Comptabilitat Financera,102371,2,Dilluns,1,2,18.15-20.15,1
+ADE,3,mati,Direcció Estratègica I,102363,1,Dilluns,1,1,9-11,0
+ADE,3,mati,Direcció Estratègica I,102363,1,Dimecres,3,2,11.15-13.15,1
+ADE,3,mati,Finances I,102329,1,Dimarts,2,1,9-11,0
+ADE,3,mati,Finances I,102329,1,Dijous,4,2,11.15-13.15,1
+ADE,3,mati,Direcció de Màrqueting,104678,1,Dimecres,3,1,9-11,0
+ADE,3,mati,Direcció de Màrqueting,104678,1,Divendres,5,2,11.15-13.15,1
+ADE,3,mati,Investigació Operativa,104685,1,Dijous,4,1,9-11,0
+ADE,3,mati,Investigació Operativa,104685,1,Dimarts,2,2,11.15-13.15,1
+ADE,3,mati,Creació d'Empreses,102364,1,Divendres,5,1,9-11,0
+ADE,3,mati,Creació d'Empreses,102364,1,Dilluns,2,2,11.15-13.15,1
+ADE,3,tarda,Direcció Estratègica I,102363,1,Dilluns,1,1,16-18,0
+ADE,3,tarda,Direcció Estratègica I,102363,1,Dimecres,3,2,18.15-20.15,1
+ADE,3,tarda,Finances I,102329,1,Dimarts,2,1,16-18,0
+ADE,3,tarda,Finances I,102329,1,Dijous,4,2,18.15-20.15,1
+ADE,3,tarda,Direcció de Màrqueting,104678,1,Dimecres,3,1,16-18,0
+ADE,3,tarda,Direcció de Màrqueting,104678,1,Divendres,5,2,18.15-20.15,1
+ADE,3,tarda,Investigació Operativa,104685,1,Dijous,4,1,16-18,0
+ADE,3,tarda,Investigació Operativa,104685,1,Dimarts,2,2,18.15-20.15,1
+ADE,3,tarda,Creació d'Empreses,102364,1,Divendres,5,1,16-18,0
+ADE,3,tarda,Creació d'Empreses,102364,1,Dilluns,2,2,18.15-20.15,1
+ADE,3,mati,Investigació Comercial I,102355,2,Dilluns,1,1,9-11,0
+ADE,3,mati,Investigació Comercial I,102355,2,Dimecres,3,2,11.15-13.15,0
+ADE,3,mati,Finances II,102328,2,Dimarts,2,1,9-11,1
+ADE,3,mati,Finances II,102328,2,Dijous,4,2,11.15-13.15,0
+ADE,3,mati,Direcció d'Operacions,104677,2,Dimecres,3,1,9-11,0
+ADE,3,mati,Direcció d'Operacions,104677,2,Divendres,5,2,11.15-13.15,1
+ADE,3,mati,Anàlisi i Avaluació d'Estats Comptables,106397,2,Dijous,4,1,9-11,0
+ADE,3,mati,Anàlisi i Avaluació d'Estats Comptables,106397,2,Dimarts,2,2,11.15-13.15,1
+ADE,3,mati,Direcció Estratègica II,102362,2,Divendres,5,1,9-11,0
+ADE,3,mati,Direcció Estratègica II,102362,2,Dilluns,1,2,11.15-13.15,1
+ADE,3,tarda,Investigació Comercial I,102355,2,Dilluns,1,1,16-18,0
+ADE,3,tarda,Investigació Comercial I,102355,2,Dimecres,3,2,18.15-20.15,0
+ADE,3,tarda,Finances II,102328,2,Dimarts,2,1,16-18,1
+ADE,3,tarda,Finances II,102328,2,Dijous,4,2,18.15-20.15,0
+ADE,3,tarda,Direcció d'Operacions,104677,2,Dimecres,3,1,16-18,0
+ADE,3,tarda,Direcció d'Operacions,104677,2,Divendres,5,2,18.15-20.15,1
+ADE,3,tarda,Anàlisi i Avaluació d'Estats Comptables,106397,2,Dijous,4,1,16-18,0
+ADE,3,tarda,Anàlisi i Avaluació d'Estats Comptables,106397,2,Dimarts,2,2,18.15-20.15,1
+ADE,3,tarda,Direcció Estratègica II,102362,2,Divendres,5,1,16-18,0
+ADE,3,tarda,Direcció Estratègica II,102362,2,Dilluns,1,2,18.15-20.15,1
