@@ -1,24 +1,4 @@
 grup_estudi,assignatura,codi_assignatura,semestre,day,day_code,session,hour,start_time,end_time,duration,session_type,matricules-assignatura,attendance_rate,taxa_de_rendiment,engagement_score,time_of_day
-ADE - 1 - mati,Matemàtiques I,102345,1,dilluns,1,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 1 - mati,Matemàtiques I,102345,1,dimecres,3,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 1 - mati,Dret,102340,1,dimarts,2,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 1 - mati,Dret,102340,1,dijous,4,2,11.15-14.15,11.15,14.15,3.0,practical,,,,,late_morning
-ADE - 1 - mati,Hª Econòmica Mundial,102330,1,dimecres,3,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 1 - mati,Hª Econòmica Mundial,102330,1,divendres,5,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 1 - mati,Economia de l'Empresa I,102343,1,dijous,4,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 1 - mati,Economia de l'Empresa I,102343,1,dimarts,2,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 1 - mati,Introducció a l'Economia,102341,1,divendres,5,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 1 - mati,Introducció a l'Economia,102341,1,dilluns,1,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 1 - tarda,Matemàtiques I,102345,1,dilluns,1,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 1 - tarda,Matemàtiques I,102345,1,dimecres,3,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 1 - tarda,Dret,102340,1,dimarts,2,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 1 - tarda,Dret,102340,1,dijous,4,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 1 - tarda,Hª Econòmica Mundial,102330,1,dimecres,3,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 1 - tarda,Hª Econòmica Mundial,102330,1,divendres,5,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 1 - tarda,Economia de l'Empresa I,102343,1,dijous,4,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 1 - tarda,Economia de l'Empresa I,102343,1,dimarts,2,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 1 - tarda,Introducció a l'Economia,102341,1,divendres,5,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 1 - tarda,Introducció a l'Economia,102341,1,dilluns,1,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
 ADE - 1 - mati,Matemàtiques II,102344,2,dilluns,1,1,9-11,9.00,11.00,2.0,lecture,90.0,0.6733333333333333,0.844,0.7586666666666666,early_morning
 ADE - 1 - mati,Matemàtiques II,102344,2,dimecres,3,2,11.15-13.15,11.15,13.15,2.0,practical,90.0,0.6733333333333333,0.844,0.7586666666666666,late_morning
 ADE - 1 - mati,Introducció a la Comptabilitat,102366,2,dimarts,2,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
@@ -41,24 +21,6 @@ ADE - 1 - tarda,Fonaments de Màrqueting,104675,2,divendres,5,1,16-18,16.00,18.0
 ADE - 1 - tarda,Fonaments de Màrqueting,104675,2,dilluns,2,2,18.15-20.15,18.15,20.15,2.0,lecture,,,,,evening
 ADE - 2 - mati,Microeconomia I,102337,1,dilluns,1,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
 ADE - 2 - mati,Microeconomia I,102337,1,dimecres,3,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 2 - mati,Comptabilitat de Costos,102374,1,dimarts,2,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 2 - mati,Comptabilitat de Costos,102374,1,dijous,4,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 2 - mati,Economia Espanyola,102320,1,dimecres,3,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 2 - mati,Economia Espanyola,102320,1,divendres,5,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 2 - mati,Recursos Humans,102342,1,dijous,4,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 2 - mati,Recursos Humans,102342,1,dimarts,2,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 2 - mati,Estadística II,102385,1,divendres,5,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 2 - mati,Estadística II,102385,1,dilluns,1,2,11.15-13.15,11.15,13.15,2.0,lecture,,,,,late_morning
-ADE - 2 - tarda,Microeconomia I,102337,1,dilluns,1,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 2 - tarda,Microeconomia I,102337,1,dimecres,3,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 2 - tarda,Comptabilitat de Costos,102374,1,dimarts,2,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 2 - tarda,Comptabilitat de Costos,102374,1,dijous,4,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 2 - tarda,Economia Espanyola,102320,1,dimecres,3,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 2 - tarda,Economia Espanyola,102320,1,divendres,5,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 2 - tarda,Recursos Humans,102342,1,dijous,4,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 2 - tarda,Recursos Humans,102342,1,dimarts,2,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 2 - tarda,Estadística II,102385,1,divendres,5,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 2 - tarda,Estadística II,102385,1,dilluns,1,2,18.15-20.15,18.15,20.15,2.0,lecture,,,,,evening
 ADE - 2 - mati,Macroeconomia I,102384,2,dilluns,1,1,9-11,9.00,11.00,2.0,lecture,85.0,0.5450980392156862,0.882,0.7135490196078431,early_morning
 ADE - 2 - mati,Macroeconomia I,102384,2,dimecres,3,2,11.15-13.15,11.15,13.15,2.0,practical,85.0,0.5450980392156862,0.882,0.7135490196078431,late_morning
 ADE - 2 - mati,Teories de l'Empresa,104676,2,dimarts,2,1,9-11,9.00,11.00,2.0,lecture,86.0,0.7063953488372093,0.953,0.8296976744186046,early_morning
@@ -79,26 +41,6 @@ ADE - 2 - tarda,Microeconomia II,102336,2,dijous,4,1,16-18,16.00,18.00,2.0,lectu
 ADE - 2 - tarda,Microeconomia II,102336,2,dimarts,2,2,18.15-20.15,18.15,20.15,2.0,practical,81.0,0.4074074074074074,0.58,0.49370370370370364,evening
 ADE - 2 - tarda,Comptabilitat Financera,102371,2,divendres,3,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
 ADE - 2 - tarda,Comptabilitat Financera,102371,2,dilluns,1,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 3 - mati,Direcció Estratègica I,102363,1,dilluns,1,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 3 - mati,Direcció Estratègica I,102363,1,dimecres,3,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 3 - mati,Finances I,102329,1,dimarts,2,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 3 - mati,Finances I,102329,1,dijous,4,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 3 - mati,Direcció de Màrqueting,104678,1,dimecres,3,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 3 - mati,Direcció de Màrqueting,104678,1,divendres,5,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 3 - mati,Investigació Operativa,104685,1,dijous,4,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 3 - mati,Investigació Operativa,104685,1,dimarts,2,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 3 - mati,Creació d'Empreses,102364,1,divendres,5,1,9-11,9.00,11.00,2.0,lecture,,,,,early_morning
-ADE - 3 - mati,Creació d'Empreses,102364,1,dilluns,2,2,11.15-13.15,11.15,13.15,2.0,practical,,,,,late_morning
-ADE - 3 - tarda,Direcció Estratègica I,102363,1,dilluns,1,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 3 - tarda,Direcció Estratègica I,102363,1,dimecres,3,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 3 - tarda,Finances I,102329,1,dimarts,2,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 3 - tarda,Finances I,102329,1,dijous,4,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 3 - tarda,Direcció de Màrqueting,104678,1,dimecres,3,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 3 - tarda,Direcció de Màrqueting,104678,1,divendres,5,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 3 - tarda,Investigació Operativa,104685,1,dijous,4,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 3 - tarda,Investigació Operativa,104685,1,dimarts,2,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
-ADE - 3 - tarda,Creació d'Empreses,102364,1,divendres,5,1,16-18,16.00,18.00,2.0,lecture,,,,,afternoon
-ADE - 3 - tarda,Creació d'Empreses,102364,1,dilluns,2,2,18.15-20.15,18.15,20.15,2.0,practical,,,,,evening
 ADE - 3 - mati,Investigació Comercial I,102355,2,dilluns,1,1,9-11,9.00,11.00,2.0,lecture,49.0,0.6938775510204082,0.898,0.7959387755102041,early_morning
 ADE - 3 - mati,Investigació Comercial I,102355,2,dimecres,3,2,11.15-13.15,11.15,13.15,2.0,lecture,49.0,0.6938775510204082,0.898,0.7959387755102041,late_morning
 ADE - 3 - mati,Finances II,102328,2,dimarts,2,1,9-11,9.00,11.00,2.0,practical,57.0,0.7309941520467836,0.596,0.6634970760233918,early_morning

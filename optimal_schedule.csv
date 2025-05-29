@@ -1,0 +1,57 @@
+program_year,semester,assignatura,session_type,day,hour,performance_score
+ADE - 1 - mati,1,dret,practical,dijous,11.15-14.15,0.0
+ADE - 1 - mati,1,economia de l'empresa i,lecture,dijous,9-11,0.735385671093354
+ADE - 1 - mati,1,matemàtiques i,lecture,dilluns,9-11,0.0
+ADE - 1 - mati,1,economia de l'empresa i,practical,dimarts,11.15-13.15,0.735385671093354
+ADE - 1 - mati,1,dret,lecture,dimarts,9-11,0.0
+ADE - 1 - mati,1,hª econòmica mundial,lecture,dimecres,9-11,0.0
+ADE - 1 - mati,2,introducció a la comptabilitat,practical,dijous,11.15-13.15,0.2927940578479245
+ADE - 1 - mati,2,fonaments de màrqueting,lecture,dilluns,11.15-13.15,0.511202950666259
+ADE - 1 - mati,2,matemàtiques ii,practical,dimecres,11.15-13.15,0.3832186298967016
+ADE - 1 - mati,2,economia internacional,practical,divendres,11.15-13.15,0.35941834340557915
+ADE - 1 - tarda,1,introducció a l'economia,practical,dilluns,18.15-20.15,0.0
+ADE - 1 - tarda,1,matemàtiques i,practical,dimecres,18.15-20.15,0.0
+ADE - 1 - tarda,1,introducció a l'economia,lecture,divendres,16-18,0.0
+ADE - 1 - tarda,1,hª econòmica mundial,practical,divendres,18.15-20.15,0.0
+ADE - 1 - tarda,2,estadística i,practical,dijous,16-18,0.45711958292377225
+ADE - 1 - tarda,2,matemàtiques ii,lecture,dilluns,16-18,0.4959471910585127
+ADE - 1 - tarda,2,introducció a la comptabilitat,lecture,dimarts,16-18,0.3469952865898005
+ADE - 1 - tarda,2,estadística i,lecture,dimarts,18.15-20.15,0.45711958292377225
+ADE - 1 - tarda,2,economia internacional,lecture,dimecres,16-18,0.42968572554974127
+ADE - 2 - mati,1,recursos humans,lecture,dijous,9-11,0.0
+ADE - 2 - mati,1,microeconomia i,lecture,dilluns,9-11,0.30593244568329336
+ADE - 2 - mati,1,comptabilitat de costos,lecture,dimarts,9-11,0.0
+ADE - 2 - mati,1,microeconomia i,practical,dimecres,11.15-13.15,0.30593244568329336
+ADE - 2 - mati,1,economia espanyola,lecture,dimecres,9-11,0.0
+ADE - 2 - mati,1,economia espanyola,practical,divendres,11.15-13.15,0.0
+ADE - 2 - mati,1,estadística ii,lecture,divendres,9-11,0.0
+ADE - 2 - mati,2,teories de l'empresa,practical,dijous,11.15-13.15,0.479581781605442
+ADE - 2 - mati,2,comptabilitat financera,practical,dilluns,11.15-13.15,0.4446472646547834
+ADE - 2 - mati,2,microeconomia ii,practical,dimarts,11.15-13.15,0.31219064771582405
+ADE - 2 - tarda,1,comptabilitat de costos,practical,dijous,18.15-20.15,0.0
+ADE - 2 - tarda,1,recursos humans,practical,dimarts,18.15-20.15,0.0
+ADE - 2 - tarda,2,microeconomia ii,lecture,dijous,16-18,0.4106357452817405
+ADE - 2 - tarda,2,macroeconomia i,lecture,dilluns,16-18,0.34016719010026797
+ADE - 2 - tarda,2,teories de l'empresa,lecture,dimarts,16-18,0.5054898806526443
+ADE - 2 - tarda,2,econometria i,lecture,dimecres,16-18,0.39163783278317044
+ADE - 2 - tarda,2,macroeconomia i,practical,dimecres,18.15-20.15,0.34016719010026797
+ADE - 2 - tarda,2,comptabilitat financera,lecture,divendres,16-18,0.5079834290282855
+ADE - 3 - mati,1,finances i,practical,dijous,11.15-13.15,0.8092736860267973
+ADE - 3 - mati,1,investigació operativa,lecture,dijous,9-11,0.575585556604757
+ADE - 3 - mati,1,direcció estratègica i,lecture,dilluns,9-11,0.0
+ADE - 3 - mati,1,investigació operativa,practical,dimarts,11.15-13.15,0.575585556604757
+ADE - 3 - mati,1,direcció estratègica i,practical,dimecres,11.15-13.15,0.0
+ADE - 3 - mati,1,direcció de màrqueting,lecture,dimecres,9-11,0.5747308932835327
+ADE - 3 - mati,1,direcció de màrqueting,practical,divendres,11.15-13.15,0.5747308932835327
+ADE - 3 - mati,1,creació d'empreses,lecture,divendres,9-11,0.0
+ADE - 3 - mati,2,direcció estratègica ii,practical,dilluns,11.15-13.15,0.47903434226602154
+ADE - 3 - mati,2,finances ii,practical,dimarts,9-11,0.4525063947527843
+ADE - 3 - tarda,1,creació d'empreses,practical,dilluns,18.15-20.15,0.0
+ADE - 3 - tarda,1,finances i,lecture,dimarts,16-18,0.699839393403709
+ADE - 3 - tarda,2,anàlisi i avaluació d'estats comptables,lecture,dijous,16-18,0.0
+ADE - 3 - tarda,2,finances ii,lecture,dijous,18.15-20.15,0.4213248188546244
+ADE - 3 - tarda,2,investigació comercial i,lecture,dilluns,16-18,0.79847850150666
+ADE - 3 - tarda,2,anàlisi i avaluació d'estats comptables,practical,dimarts,18.15-20.15,0.0
+ADE - 3 - tarda,2,direcció d'operacions,lecture,dimecres,16-18,0.5026337307838591
+ADE - 3 - tarda,2,direcció estratègica ii,lecture,divendres,16-18,0.6829195785677503
+ADE - 3 - tarda,2,direcció d'operacions,practical,divendres,18.15-20.15,0.5026337307838591

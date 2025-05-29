@@ -1,0 +1,143 @@
+titulacio_nom_complet,assignatura,titulacio,curs,tipologia,horari,mean_attendance,num_sessions,nota_d'acces_(preinscripcio),taxa_exit,nota_mitjana_asignatura,attendance_rate,matricules-assignatura
+Graduat en Administració i Direcció d'Empreses,anàlisi i avaluació dels estats comptables,ADE,3,1,mati,29.6,5.0,10.402465334900118,83.38%,6.026567164179105,0.17514792899408285,169
+Graduat en Administració i Direcció d'Empreses,anàlisi i avaluació dels estats comptables,ADE,3,1,tarda,25.0,3.0,10.402465334900118,83.38%,6.026567164179105,0.45454545454545453,55
+Graduat en Administració i Direcció d'Empreses,anàlisi i avaluació dels estats comptables,ADE anglés,3,1,mati,47.5,4.0,10.402465334900118,83.38%,6.026567164179105,0.28106508875739644,169
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,anàlisi i avaluació dels estats comptables,ADE+Dret,3,1,mati,30.6,5.0,10.990394805194803,89.71%,6.026567164179105,0.42500000000000004,72
+Graduat en Administració i Direcció d'Empreses,comptabilitat financera,ADE,3,1,tarda,31.0,3.0,10.402465334900118,83.38%,6.14295681063123,0.4626865671641791,67
+Graduat en Empresa i Tecnologia,comptabilitat bàsica,EIT,1,1,mati,63.42857142857143,7.0,10.036976833976835,83.8%,5.567676767676768,0.6607142857142857,96
+Graduat en Administració i Direcció d'Empreses,comptabilitat financera,ADE,3,1,mati,60.666666666666664,3.0,10.402465334900118,83.38%,6.14295681063123,0.3991228070175438,152
+Graduat en Administració i Direcció d'Empreses,comptabilitat financera,ADE anglés,2,1,mati,33.6,5.0,10.402465334900118,83.38%,6.14295681063123,0.2210526315789474,152
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,comptabilitat financera,ADE+Dret,2,1,mati,29.25,4.0,10.990394805194803,89.71%,6.14295681063123,0.4431818181818182,66
+Graduat en Comptabilitat i Finances,comptabilitat financera i,CIF,1,1,mati,72.5,2.0,8.81884309623431,79.37%,4.284536082474227,0.6590909090909091,110
+Graduat en Comptabilitat i Finances,comptabilitat financera i,CIF,1,1,tarda,42.666666666666664,3.0,8.81884309623431,79.37%,4.284536082474227,0.5267489711934156,81
+Graduat en Comptabilitat i Finances,control de gestió,CIF,3,0,mati,61.0,1.0,8.81884309623431,79.37%,4.628571428571428,0.8714285714285714,70
+Graduat en Comptabilitat i Finances,control de gestió,CIF,3,0,tarda,23.0,3.0,8.81884309623431,79.37%,4.628571428571428,0.4791666666666667,48
+Graduat en Administració i Direcció d'Empreses,direcció estratègica ii,ADE,3,0,mati,24.833333333333332,6.0,10.402465334900118,83.38%,6.0811,0.191025641025641,130
+Graduat en Administració i Direcció d'Empreses,direcció estratègica ii,ADE,3,0,tarda,38.0,1.0,10.402465334900118,83.38%,6.0811,0.7755102040816326,49
+Graduat en Administració i Direcció d'Empreses,direcció d'operacions,ADE,3,1,mati,24.0,3.0,10.402465334900118,83.38%,5.685813953488372,0.16666666666666666,144
+Graduat en Administració i Direcció d'Empreses,direcció d'operacions,ADE,3,1,tarda,27.25,4.0,10.402465334900118,83.38%,5.685813953488372,0.4780701754385965,57
+Graduat en Administració i Direcció d'Empreses,direcció d'operacions,ADE anglés,3,1,mati,34.75,4.0,10.402465334900118,83.38%,5.685813953488372,0.24131944444444445,144
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,direcció d'operacions,ADE+Dret,3,1,mati,43.0,4.0,10.990394805194803,89.71%,5.685813953488372,0.5657894736842105,76
+Graduat en Comptabilitat i Finances,direcció d'operacions,CIF,3,1,mati,40.0,1.0,8.81884309623431,79.37%,5.685813953488372,0.5555555555555556,72
+Graduat en Comptabilitat i Finances,direcció d'operacions,CIF,3,1,tarda,26.0,1.0,8.81884309623431,79.37%,5.685813953488372,0.6341463414634146,41
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,direcció de màrqueting,ADE+Dret,3,0,mati,41.0,4.0,10.990394805194803,89.71%,6.538106312292359,0.4880952380952381,84
+Graduat en Comptabilitat i Finances,direcció de recursos humans,CIF,2,0,mati,45.5,2.0,8.81884309623431,79.37%,6.165048543689321,0.6791044776119403,67
+Graduat en Comptabilitat i Finances,direcció de recursos humans,CIF,2,0,tarda,19.5,2.0,8.81884309623431,79.37%,6.165048543689321,0.5416666666666666,36
+Graduat en Administració i Direcció d'Empreses,direcció estratègica ii,ADE anglés,3,0,mati,57.666666666666664,6.0,10.402465334900118,83.38%,6.0811,0.44358974358974357,130
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,direcció estratègica ii,ADE+Dret,3,0,mati,48.5,2.0,10.990394805194803,89.71%,6.0811,0.6466666666666666,75
+Graduat en Comptabilitat i Finances,dret mercantil,CIF,2,0,mati,37.0,1.0,8.81884309623431,79.37%,7.296938775510204,0.5967741935483871,62
+Graduat en Comptabilitat i Finances,dret mercantil,CIF,2,0,tarda,25.0,1.0,8.81884309623431,79.37%,7.296938775510204,0.6944444444444444,36
+Graduat en Administració i Direcció d'Empreses,econometria i,ADE,2,1,mati,67.66666666666667,3.0,10.402465334900118,83.38%,5.22046783625731,0.4337606837606838,156
+Graduat en Administració i Direcció d'Empreses,econometria i,ADE,2,1,tarda,33.0,1.0,10.402465334900118,83.38%,5.22046783625731,0.375,88
+Graduat en Administració i Direcció d'Empreses,econometria i,ADE anglés,2,1,mati,24.333333333333332,3.0,10.402465334900118,83.38%,5.22046783625731,0.15598290598290598,156
+Graduat en Economia,econometria i,ECO,2,1,mati,33.0,7.0,9.517400597907324,70.53%,5.22046783625731,0.25984251968503935,127
+Graduat en Economia,econometria i,ECO,2,1,tarda,34.0,1.0,9.517400597907324,70.53%,5.22046783625731,0.5666666666666667,60
+Graduat en Economia,econometria i,ECO anglés,2,1,mati,25.0,4.0,9.517400597907324,70.53%,5.22046783625731,0.1968503937007874,127
+Graduat en Administració i Direcció d'Empreses,economia internacional,ADE,1,0,mati,50.0,4.0,10.402465334900118,83.38%,5.5173100871731,0.2840909090909091,176
+Graduat en Administració i Direcció d'Empreses,economia internacional,ADE,1,0,tarda,38.0,2.0,10.402465334900118,83.38%,5.5173100871731,0.4578313253012048,83
+Graduat en Administració i Direcció d'Empreses,economia internacional,ADE anglés,1,0,mati,34.0,4.0,10.402465334900118,83.38%,5.5173100871731,0.19318181818181818,176
+Graduat en Economia,economia internacional,ECO,1,0,mati,54.6,5.0,9.517400597907324,70.53%,5.5173100871731,0.3592105263157895,152
+Graduat en Economia,economia internacional,ECO,1,0,tarda,32.2,5.0,9.517400597907324,70.53%,5.5173100871731,0.4953846153846154,65
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,economia de l'empresa i,ADE+Dret,1,0,mati,67.25,4.0,10.990394805194803,89.71%,5.993295019157088,0.8848684210526315,76
+Graduat en Economia,economia del sector públic,ECO,2,0,mati,48.0,5.0,9.517400597907324,70.53%,4.88232044198895,0.34285714285714286,140
+Graduat en Economia,economia del sector públic,ECO,2,0,tarda,22.333333333333332,6.0,9.517400597907324,70.53%,4.88232044198895,0.5193798449612402,43
+Graduat en Economia,economia del sector públic,ECO anglés,2,0,mati,20.5,4.0,9.517400597907324,70.53%,4.88232044198895,0.14642857142857144,140
+Graduat en Comptabilitat i Finances,economia internacional,CIF,1,0,mati,70.0,1.0,8.81884309623431,79.37%,5.5173100871731,0.6194690265486725,113
+Graduat en Comptabilitat i Finances,economia internacional,CIF,1,0,tarda,30.0,5.0,8.81884309623431,79.37%,5.5173100871731,0.45454545454545453,66
+Graduat en Economia,economia internacional,ECO anglés,1,0,mati,32.0,4.0,9.517400597907324,70.53%,5.5173100871731,0.21052631578947367,152
+Graduat en Empresa i Tecnologia,economia internacional,EIT,1,0,mati,36.0,4.0,10.036976833976835,83.8%,5.5173100871731,0.42857142857142855,84
+Graduat en Economia,economia sectorial,ECO,2,0,mati,46.0,2.0,9.517400597907324,70.53%,5.38909090909091,0.37398373983739835,123
+Graduat en Economia,economia sectorial,ECO anglés,2,0,mati,21.25,4.0,9.517400597907324,70.53%,5.38909090909091,0.17276422764227642,123
+Graduat en Administració i Direcció d'Empreses,estadística i,ADE,1,1,mati,56.0,4.0,10.402465334900118,83.38%,5.7969586374695865,0.3393939393939394,165
+Graduat en Administració i Direcció d'Empreses,estadística i,ADE,1,1,tarda,31.428571428571427,7.0,10.402465334900118,83.38%,5.7969586374695865,0.3880070546737213,81
+Graduat en Administració i Direcció d'Empreses,estadística i,ADE anglés,1,1,mati,35.75,4.0,10.402465334900118,83.38%,5.7969586374695865,0.21666666666666667,165
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,estadística i,ADE+Dret,2,1,mati,36.5,4.0,10.990394805194803,89.71%,5.7969586374695865,0.4620253164556962,79
+Graduat en Comptabilitat i Finances,estadística i,CIF,1,1,mati,47.42857142857143,7.0,8.81884309623431,79.37%,5.7969586374695865,0.4790764790764791,99
+Graduat en Comptabilitat i Finances,estadística i,CIF,1,1,tarda,45.0,4.0,8.81884309623431,79.37%,5.7969586374695865,0.6521739130434783,69
+Graduat en Economia,estadística i,ECO,1,1,mati,51.75,4.0,9.517400597907324,70.53%,5.7969586374695865,0.375,138
+Graduat en Economia,estadística i,ECO,1,1,tarda,24.0,2.0,9.517400597907324,70.53%,5.7969586374695865,0.32,75
+Graduat en Economia,estadística i,ECO anglés,1,1,mati,27.0,4.0,9.517400597907324,70.53%,5.7969586374695865,0.1956521739130435,138
+Graduat en Empresa i Tecnologia,estadística i,EIT,1,1,mati,49.0,1.0,10.036976833976835,83.8%,5.7969586374695865,0.5568181818181818,88
+Graduat en Empresa i Tecnologia,finances,EIT,2,1,mati,48.0,3.0,10.036976833976835,83.8%,6.21063829787234,0.5217391304347826,92
+Graduat en Comptabilitat i Finances,finances i,CIF,2,1,mati,53.833333333333336,6.0,8.81884309623431,79.37%,6.750961538461539,0.8411458333333334,64
+Graduat en Comptabilitat i Finances,finances i,CIF,2,1,tarda,24.857142857142858,7.0,8.81884309623431,79.37%,6.750961538461539,0.6541353383458647,38
+Graduat en Administració i Direcció d'Empreses,finances ii,ADE,3,1,mati,41.666666666666664,3.0,10.402465334900118,83.38%,6.302564102564102,0.3132832080200501,133
+Graduat en Administració i Direcció d'Empreses,finances ii,ADE,3,1,tarda,18.4,5.0,10.402465334900118,83.38%,6.302564102564102,0.27878787878787875,66
+Graduat en Administració i Direcció d'Empreses,finances ii,ADE anglés,3,1,mati,41.57142857142857,7.0,10.402465334900118,83.38%,6.302564102564102,0.3125671321160043,133
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,finances ii,ADE+Dret,3,1,mati,30.0,4.0,10.990394805194803,89.71%,6.302564102564102,0.37037037037037035,81
+Graduat en Comptabilitat i Finances,finances corporatives,CIF,3,1,mati,31.0,1.0,8.81884309623431,79.37%,7.3446428571428575,0.4492753623188406,69
+Graduat en Comptabilitat i Finances,finances corporatives,CIF,3,1,tarda,25.25,4.0,8.81884309623431,79.37%,7.3446428571428575,0.6011904761904762,42
+Graduat en Economia,finances públiques,ECO,3,1,mati,29.333333333333332,6.0,9.517400597907324,70.53%,6.422077922077922,0.2691131498470948,109
+Graduat en Economia,finances públiques,ECO,3,1,tarda,28.5,2.0,9.517400597907324,70.53%,6.422077922077922,0.8636363636363636,33
+Graduat en Economia,finances públiques,ECO anglés,3,1,mati,32.25,4.0,9.517400597907324,70.53%,6.422077922077922,0.2958715596330275,109
+Graduat en Administració i Direcció d'Empreses,fonaments de màrqueting,ADE,1,0,tarda,40.42857142857143,7.0,10.402465334900118,83.38%,6.039077380952381,0.5183150183150184,78
+Graduat en Administració i Direcció d'Empreses,fonaments de màrqueting,ADE,3,0,mati,67.5,4.0,10.402465334900118,83.38%,6.039077380952381,0.3358208955223881,201
+Graduat en Administració i Direcció d'Empreses,fonaments de màrqueting,ADE anglés,1,0,mati,47.666666666666664,3.0,10.402465334900118,83.38%,6.039077380952381,0.23714759535655056,201
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,fonaments de màrqueting,ADE+Dret,3,0,mati,59.5,2.0,10.990394805194803,89.71%,6.039077380952381,0.9015151515151515,66
+Graduat en Empresa i Tecnologia,fonaments de programació,EIT,1,1,mati,45.0,3.0,10.036976833976835,83.8%,5.502999999999999,0.45918367346938777,98
+Graduat en Empresa i Tecnologia,gestió de recursos humans,EIT,3,0,mati,37.0,1.0,10.036976833976835,83.8%,7.571186440677966,0.6379310344827587,58
+Graduat en Empresa i Tecnologia,gestió per processos,EIT,2,0,mati,60.0,1.0,10.036976833976835,83.8%,6.098795180722892,0.7228915662650602,83
+Graduat en Comptabilitat i Finances,història econòmica,CIF,1,0,tarda,47.25,4.0,8.81884309623431,79.37%,4.98423076923077,0.675,70
+Graduat en Comptabilitat i Finances,història de l'empresa,CIF,3,0,mati,18.0,1.0,8.81884309623431,79.37%,5.81025641025641,0.46153846153846156,39
+Graduat en Comptabilitat i Finances,història econòmica,CIF,1,0,mati,60.666666666666664,3.0,8.81884309623431,79.37%,4.98423076923077,0.6006600660066006,101
+Graduat en Empresa i Tecnologia,història econòmica,EIT,2,0,mati,76.0,4.0,10.036976833976835,83.8%,4.98423076923077,0.9382716049382716,81
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,història econòmica mundial,ADE+Dret,1,0,mati,50.0,1.0,10.990394805194803,89.71%,4.852971137521223,0.6578947368421053,76
+Graduat en Economia,història econòmica contemporània,ECO,3,0,mati,32.333333333333336,3.0,9.517400597907324,70.53%,5.455194805194806,0.2763532763532764,117
+Graduat en Economia,història econòmica contemporània,ECO,3,0,tarda,22.0,4.0,9.517400597907324,70.53%,5.455194805194806,0.5945945945945946,37
+Graduat en Economia,història econòmica contemporània,ECO anglés,3,0,mati,19.0,4.0,9.517400597907324,70.53%,5.455194805194806,0.1623931623931624,117
+Graduat en Economia,història econòmica d'espanya,ECO,1,0,mati,46.0,3.0,9.517400597907324,70.53%,4.1070866141732285,0.304635761589404,151
+Graduat en Economia,història econòmica d'espanya,ECO anglés,1,0,mati,32.666666666666664,3.0,9.517400597907324,70.53%,4.1070866141732285,0.2163355408388521,151
+Graduat en Empresa i Tecnologia,introducció a la gestió de la innovació,EIT,3,0,mati,58.0,1.0,10.036976833976835,83.8%,7.33,0.9830508474576272,59
+Graduat en Administració i Direcció d'Empreses,introducció a la comptabilitat,ADE,1,1,mati,81.0,4.0,10.402465334900118,83.38%,4.9757250755287,0.3521739130434783,230
+Graduat en Administració i Direcció d'Empreses,introducció a la comptabilitat,ADE,1,1,tarda,47.0,4.0,10.402465334900118,83.38%,4.9757250755287,0.618421052631579,76
+Graduat en Administració i Direcció d'Empreses,introducció a la comptabilitat,ADE anglés,1,1,mati,43.4,5.0,10.402465334900118,83.38%,4.9757250755287,0.18869565217391304,230
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,introducció a la comptabilitat,ADE+Dret,1,1,mati,51.666666666666664,3.0,10.990394805194803,89.71%,4.9757250755287,0.6007751937984496,86
+Graduat en Economia,introducció a la comptabilitat,ECO,1,1,mati,58.166666666666664,6.0,9.517400597907324,70.53%,4.9757250755287,0.32677902621722843,178
+Graduat en Economia,introducció a la comptabilitat,ECO,1,1,tarda,23.0,5.0,9.517400597907324,70.53%,4.9757250755287,0.2804878048780488,82
+Graduat en Economia,introducció a la comptabilitat,ECO anglés,1,1,mati,56.2,5.0,9.517400597907324,70.53%,4.9757250755287,0.3157303370786517,178
+Graduat en Empresa i Tecnologia,introducció als sistemes d'informació,EIT,2,0,mati,63.0,1.0,10.036976833976835,83.8%,6.927160493827161,0.7777777777777778,81
+Graduat en Administració i Direcció d'Empreses,investigació comercial i,ADE,3,1,mati,34.0,3.0,10.402465334900118,83.38%,6.760701754385964,0.6938775510204082,49
+Graduat en Administració i Direcció d'Empreses,investigació comercial i,ADE,3,1,tarda,32.0,2.0,10.402465334900118,83.38%,6.760701754385964,0.8205128205128205,39
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,investigació comercial i,ADE+Dret,3,1,mati,25.0,3.0,10.990394805194803,89.71%,6.760701754385964,0.36231884057971014,69
+Graduat en Empresa i Tecnologia,investigació operativa,EIT,2,1,mati,63.666666666666664,3.0,10.036976833976835,83.8%,5.668817204301075,0.6845878136200717,93
+Graduat en Comptabilitat i Finances,macroeconomia,CIF,2,1,mati,38.857142857142854,7.0,8.81884309623431,79.37%,3.9336405529953917,0.44155844155844154,88
+Graduat en Comptabilitat i Finances,macroeconomia,CIF,2,1,tarda,28.0,1.0,8.81884309623431,79.37%,3.9336405529953917,0.5490196078431373,51
+Graduat en Administració i Direcció d'Empreses,macroeconomia i,ADE,2,1,mati,46.333333333333336,3.0,10.402465334900118,83.38%,5.016795918367347,0.28778467908902694,161
+Graduat en Administració i Direcció d'Empreses,macroeconomia i,ADE,2,1,tarda,36.0,4.0,10.402465334900118,83.38%,5.016795918367347,0.42857142857142855,84
+Graduat en Administració i Direcció d'Empreses,macroeconomia i,ADE anglés,2,1,mati,24.25,4.0,10.402465334900118,83.38%,5.016795918367347,0.15062111801242237,161
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,macroeconomia i,ADE+Dret,3,1,mati,28.25,4.0,10.990394805194803,89.71%,5.016795918367347,0.397887323943662,71
+Graduat en Economia,macroeconomia i,ECO,2,1,mati,42.5,2.0,9.517400597907324,70.53%,5.016795918367347,0.3346456692913386,127
+Graduat en Economia,macroeconomia i,ECO anglés,2,1,mati,16.333333333333332,3.0,9.517400597907324,70.53%,5.016795918367347,0.12860892388451442,127
+Graduat en Economia,macroeconomia ii,ECO anglés,2,1,mati,25.6,5.0,9.517400597907324,70.53%,3.7628019323671498,0.5565217391304348,46
+Graduat en Economia,macroeconomia iii,ECO,3,1,mati,26.0,2.0,9.517400597907324,70.53%,4.644796380090498,0.25,104
+Graduat en Economia,macroeconomia iii,ECO,3,1,tarda,49.0,1.0,9.517400597907324,70.53%,4.644796380090498,0.5,98
+Graduat en Economia,macroeconomia iii,ECO anglés,3,1,mati,26.571428571428573,7.0,9.517400597907324,70.53%,4.644796380090498,0.25549450549450553,104
+Graduat en Administració i Direcció d'Empreses,matemàtiques ii,ADE,1,1,mati,60.6,5.0,10.402465334900118,83.38%,5.3660580411124545,0.362874251497006,167
+Graduat en Administració i Direcció d'Empreses,matemàtiques ii,ADE,1,1,tarda,53.5,2.0,10.402465334900118,83.38%,5.3660580411124545,0.7430555555555556,72
+Graduat en Administració i Direcció d'Empreses,matemàtiques ii,ADE anglés,1,1,mati,42.0,4.0,10.402465334900118,83.38%,5.3660580411124545,0.25149700598802394,167
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,matemàtiques ii,ADE+Dret,1,1,mati,60.75,4.0,10.990394805194803,89.71%,5.3660580411124545,0.7147058823529412,85
+Graduat en Comptabilitat i Finances,matemàtiques ii,CIF,1,1,mati,37.8,5.0,8.81884309623431,79.37%,5.3660580411124545,0.3669902912621359,103
+Graduat en Comptabilitat i Finances,matemàtiques ii,CIF,1,1,tarda,45.0,4.0,8.81884309623431,79.37%,5.3660580411124545,0.6617647058823529,68
+Graduat en Economia,matemàtiques ii,ECO,1,1,mati,58.333333333333336,3.0,9.517400597907324,70.53%,5.3660580411124545,0.4107981220657277,142
+Graduat en Economia,matemàtiques ii,ECO,1,1,tarda,34.666666666666664,6.0,9.517400597907324,70.53%,5.3660580411124545,0.4444444444444444,78
+Graduat en Economia,matemàtiques ii,ECO anglés,1,1,mati,31.25,4.0,9.517400597907324,70.53%,5.3660580411124545,0.22007042253521128,142
+Graduat en Empresa i Tecnologia,matemàtiques ii,EIT,1,1,mati,55.0,1.0,10.036976833976835,83.8%,5.3660580411124545,0.6395348837209303,86
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,microeconomia i,ADE+Dret,2,1,mati,40.666666666666664,3.0,10.990394805194803,89.71%,4.371846153846154,0.5147679324894514,79
+Graduat en Administració i Direcció d'Empreses,microeconomia ii,ADE,2,1,mati,38.0,3.0,10.402465334900118,83.38%,5.127233115468409,0.4691358024691358,81
+Graduat en Administració i Direcció d'Empreses,microeconomia ii,ADE,2,1,tarda,33.0,2.0,10.402465334900118,83.38%,5.127233115468409,0.4074074074074074,81
+Graduat en Economia,microeconomia ii,ECO,2,1,mati,38.0,3.0,9.517400597907324,70.53%,5.127233115468409,0.336283185840708,113
+Graduat en Economia,microeconomia ii,ECO,2,1,tarda,25.0,2.0,9.517400597907324,70.53%,5.127233115468409,0.6410256410256411,39
+Graduat en Economia,microeconomia ii,ECO anglés,2,1,mati,29.666666666666668,6.0,9.517400597907324,70.53%,5.127233115468409,0.2625368731563422,113
+Graduat en Comptabilitat i Finances,màrqueting,CIF,2,0,mati,52.0,2.0,8.81884309623431,79.37%,6.149494949494949,0.8387096774193549,62
+Graduat en Comptabilitat i Finances,màrqueting,CIF,2,0,tarda,27.0,1.0,8.81884309623431,79.37%,6.149494949494949,0.75,36
+Graduat en Empresa i Tecnologia,màrqueting digital,EIT,3,0,mati,31.6,5.0,10.036976833976835,83.8%,6.373584905660378,0.6196078431372549,51
+Graduat en Empresa i Tecnologia,projectes d'innovació tecnològica,EIT,3,0,mati,48.0,6.0,10.036976833976835,83.8%,6.493939393939394,0.7384615384615385,65
+Graduat en Empresa i Tecnologia,sistemes integrats de gestió,EIT,3,0,mati,45.0,2.0,10.036976833976835,83.8%,5.750666666666667,0.703125,64
+Graduat en Economia,teoria de jocs,ECO,3,1,mati,30.666666666666668,3.0,9.517400597907324,70.53%,5.394444444444444,0.33333333333333337,92
+Graduat en Economia,teoria de jocs,ECO anglés,3,1,mati,22.666666666666668,6.0,9.517400597907324,70.53%,5.394444444444444,0.2463768115942029,92
+Graduat en Administració i Direcció d'Empreses,teories de l'empresa,ADE,2,0,mati,60.75,4.0,10.402465334900118,83.38%,5.982692307692307,0.36160714285714285,168
+Graduat en Administració i Direcció d'Empreses,teories de l'empresa,ADE,2,0,tarda,44.0,3.0,10.402465334900118,83.38%,5.982692307692307,0.4943820224719101,89
+Graduat en Administració i Direcció d'Empreses,teories de l'empresa,ADE anglés,2,0,mati,47.0,5.0,10.402465334900118,83.38%,5.982692307692307,0.27976190476190477,168
+Graduat en Administració i Direcció d'Empreses i Graduat en Dret,teories de l'empresa,ADE+Dret,3,0,mati,47.5,4.0,10.990394805194803,89.71%,5.982692307692307,0.7089552238805971,67
+Graduat en Comptabilitat i Finances,tributació i,CIF,3,0,mati,45.0,1.0,8.81884309623431,79.37%,5.15390625,0.6428571428571429,70
+Graduat en Comptabilitat i Finances,tributació i,CIF,3,0,tarda,14.25,4.0,8.81884309623431,79.37%,5.15390625,0.25,57
